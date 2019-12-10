@@ -59,4 +59,15 @@ typings/
 
 dist
 *.pid
+<<<<<<< HEAD
 .idea
+=======
+.idea
+
+/.vs
+/TheLotter.Admin.Site/package-lock.json
+/TheLotter.Admin.Site.IsolatorCache.user
+/PrecompiledWeb
+TheLotter.Admin.Site/.vscode/launch.json
+TheLotter.Admin.Site/.vs
+>>>>>>> 0d2ad788d1232d2a70ed05634b792ddb30f332de
